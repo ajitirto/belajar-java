@@ -7,6 +7,7 @@ public class buku {
         this.author=author;
 
     }
+    //jnj
     public String getTitle(){
         return title;
     }
